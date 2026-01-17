@@ -47,4 +47,4 @@ Abaixo estão os links para a documentação completa do desenvolvimento deste s
 Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
-Desenvolvido por **[Seu Nome]**
+Desenvolvido por **Vitor de Barros**
