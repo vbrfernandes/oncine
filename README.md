@@ -28,23 +28,6 @@ Este projeto foi desenvolvido como parte do portfólio acadêmico para a discipl
 * **JavaScript** (ES6+, Fetch API, Async/Await)
 * **API Externa:** [The Movie Database (TMDB)](https://www.themoviedb.org/documentation/api)
 
-## 🚀 Como Executar o Projeto
-
-1.  **Clone o repositório:**
-    ```bash
-    git clone [https://github.com/seu-usuario/oncine.git](https://github.com/seu-usuario/oncine.git)
-    ```
-2.  **Configuração da API:**
-    * Crie uma conta no [TMDB](https://www.themoviedb.org/) e solicite uma chave de API (API Key).
-    * Na raiz do projeto, crie um arquivo chamado `config.js`.
-    * Adicione sua chave no arquivo:
-        ```javascript
-        const API_KEY = "SUA_CHAVE_DE_API_AQUI";
-        ```
-3.  **Execução:**
-    * Abra o arquivo `index.html` em seu navegador de preferência.
-    * Para uma melhor experiência (e evitar bloqueios de CORS em alguns navegadores), recomenda-se usar a extensão **Live Server** do VS Code.
-
 ## 📂 Documentação do Projeto
 
 Abaixo estão os links para a documentação completa do desenvolvimento deste sistema:
